@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/%20record-shop-json-placeholder/static/css/main.cf738057.chunk.css",
+    "main.js": "/%20record-shop-json-placeholder/static/js/main.cdb1d220.chunk.js",
+    "main.js.map": "/%20record-shop-json-placeholder/static/js/main.cdb1d220.chunk.js.map",
+    "runtime-main.js": "/%20record-shop-json-placeholder/static/js/runtime-main.94f089a3.js",
+    "runtime-main.js.map": "/%20record-shop-json-placeholder/static/js/runtime-main.94f089a3.js.map",
+    "static/js/2.c932f728.chunk.js": "/%20record-shop-json-placeholder/static/js/2.c932f728.chunk.js",
+    "static/js/2.c932f728.chunk.js.map": "/%20record-shop-json-placeholder/static/js/2.c932f728.chunk.js.map",
+    "index.html": "/%20record-shop-json-placeholder/index.html",
+    "static/css/main.cf738057.chunk.css.map": "/%20record-shop-json-placeholder/static/css/main.cf738057.chunk.css.map",
+    "static/js/2.c932f728.chunk.js.LICENSE.txt": "/%20record-shop-json-placeholder/static/js/2.c932f728.chunk.js.LICENSE.txt",
+    "static/media/mockend.55f4b388.svg": "/%20record-shop-json-placeholder/static/media/mockend.55f4b388.svg",
+    "static/media/retool1.0842005b.png": "/%20record-shop-json-placeholder/static/media/retool1.0842005b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94f089a3.js",
+    "static/js/2.c932f728.chunk.js",
+    "static/css/main.cf738057.chunk.css",
+    "static/js/main.cdb1d220.chunk.js"
+  ]
+}
